@@ -1,0 +1,7 @@
+{
+    "name": "yafdemo/yaf-demo",
+    "require": {
+        "illuminate/database": "^8.42",
+        "monolog/monolog": "^2.2"
+    }
+}
